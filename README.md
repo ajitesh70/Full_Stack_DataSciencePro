@@ -135,3 +135,5 @@ ansible all -i /etc/ansible/hosts.ini -b -m command -a "getfacl $BASE/projects/W
 ansible all -i /etc/ansible/hosts.ini -b -m command -a "id dev1"
 ansible all -i
 ```
+<img width="735" height="735" alt="Screenshot 2025-09-19 095310" src="https://github.com/user-attachments/assets/3bb7664e-dc57-403a-9e35-fdebf857b0e0" />
+
